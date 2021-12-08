@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shalini2k28, a 2nd year BE Student studying Computer Science and Engineering. I've completed Certification courses in C and C++ Programming languages and a Competitive Programming Certification in JAVA. As of now, I'm a Core Java Spring Developer and System Architect. I've just begun my Industry Training in Cyber Security and Networking as well, and looking forward to work in the same domain. I've been writing technical blogs and articles since a year now, but no major.
+- 👋 Hi, I’m @shalini2k28, a 2nd year BE Student studying Computer Science and Engineering. I've completed Competitive Programming Certification in JAVA. As of now, I'm a Core Java Spring Developer and System Architect. I've just begun my Industry Training in Cyber Security and Networking as well, and looking forward to work in the same domain. I've been writing technical blogs and articles since a year now, but no major.
 
 
 <!---
